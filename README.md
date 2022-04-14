@@ -1,11 +1,32 @@
-- 👋 Hi, I’m @alans96
+- ## Hi! I'm Alan Mendes ツ
+- 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Software Engineer at <a href="https://www.footloose.io/">Footloose Labs
 
-- 👀 I’m interested in visual computing and machine learning
-- 🌱 I’m currently learning robotics
-- 💞️ I’m looking to collaborate on arm robotics 
-- 📫 How to reach me Inst: @alans96_s
 
-<!---
-alans96/alans96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+<div align="center">
+  <img align="center" alt="Coding" src="https://media3.giphy.com/media/26DNc9KWmxRd8nkUU/giphy.gif?cid=790b7611390846d18e5fa0a49aae924861984a44e71f4e1f&rid=giphy.gif&ct=g">
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
