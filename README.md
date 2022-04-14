@@ -20,8 +20,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alans96&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 ##
   
 </div>
@@ -32,9 +30,7 @@
   <img align="center" alt="Alan-vs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Alan-tf" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
-src="https://media3.giphy.com/media/26DNc9KWmxRd8nkUU/giphy.gif?cid=790b7611390846d18e5fa0a49aae924861984a44e71f4e1f&rid=giphy.gif&ct=g">
 </div>
-  
   ##
  
   
