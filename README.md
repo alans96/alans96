@@ -41,5 +41,5 @@
     <a href = "alasilva.mendes06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-  # _Tranks for your time_
+  # _Thanks for your time_
  
