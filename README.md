@@ -9,7 +9,7 @@
 - 📝 I write articles
 - 💬 Ask me about **AI, tech, algorithms, python; i am happy to help**
 - 📫 How to reach me **alasilva.mendes06@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/alan-silva-061048236/)
+- 📄 Know about my experiences https://www.linkedin.com/in/alan-silva-061048236/
   
  ##
   
