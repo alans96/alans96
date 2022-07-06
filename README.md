@@ -6,7 +6,7 @@
 ##
 - 🔭 I’m currently learning about **machine learning, ROS2, gazebo**
 - 🌱 I’m looking to collaborate on **robotics projects**
-- 📝 I write articles **Visual Vomputing** 
+- 📝 I write articles **Visual Computing** 
 - 💬 Ask me about **AI, tech, algorithms, python; i am happy to help**
 - 📫 How to reach me **alasilva.mendes06@gmail.com**
 - 📄 Know about my experiences https://www.linkedin.com/in/alan-silva-061048236/
